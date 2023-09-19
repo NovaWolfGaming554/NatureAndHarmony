@@ -13029,6 +13029,46 @@
           "src/main/resources/data/nature_and_harmony/recipes/darkonite_black_carved_recipe_2.json"
         ]
       }
+    },
+    {
+      "name": "UnderworldSandPurple",
+      "type": "block",
+      "sortid": 884,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "underworld_sand_purple",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/nature_and_harmony/blockstates/underworld_sand_purple.json",
+          "src/main/resources/data/nature_and_harmony/worldgen/placed_feature/underworld_sand_purple.json",
+          "src/main/java/net/mcreator/natureandharmony/block/UnderworldSandPurpleBlock.java",
+          "src/main/resources/data/nature_and_harmony/forge/biome_modifier/underworld_sand_purple_biome_modifier.json",
+          "src/main/resources/data/nature_and_harmony/worldgen/configured_feature/underworld_sand_purple.json",
+          "src/main/java/net/mcreator/natureandharmony/world/features/ores/UnderworldSandPurpleFeature.java",
+          "src/main/resources/assets/nature_and_harmony/models/block/underworld_sand_purple.json",
+          "src/main/resources/assets/nature_and_harmony/models/item/underworld_sand_purple.json"
+        ]
+      }
+    },
+    {
+      "name": "UnderworldSandBrown",
+      "type": "block",
+      "sortid": 885,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "underworld_sand_brown",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/nature_and_harmony/worldgen/placed_feature/underworld_sand_brown.json",
+          "src/main/resources/data/nature_and_harmony/forge/biome_modifier/underworld_sand_brown_biome_modifier.json",
+          "src/main/resources/assets/nature_and_harmony/models/block/underworld_sand_brown.json",
+          "src/main/resources/data/nature_and_harmony/worldgen/configured_feature/underworld_sand_brown.json",
+          "src/main/java/net/mcreator/natureandharmony/world/features/ores/UnderworldSandBrownFeature.java",
+          "src/main/java/net/mcreator/natureandharmony/block/UnderworldSandBrownBlock.java",
+          "src/main/resources/assets/nature_and_harmony/models/item/underworld_sand_brown.json",
+          "src/main/resources/assets/nature_and_harmony/blockstates/underworld_sand_brown.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -13119,6 +13159,7 @@
       "item.nature_and_harmony.rose_gold_armor_boots": "Rose Gold Boots",
       "block.nature_and_harmony.large_lantern_wall": "Large Lantern",
       "block.nature_and_harmony.venomite_polished": "Polished Venomite",
+      "block.nature_and_harmony.underworld_sand_brown": "Underworld Sand",
       "block.nature_and_harmony.marble_black_pillar_lower": "Marble Pillar",
       "entity.nature_and_harmony.skull": "Skull",
       "block.nature_and_harmony.blood_oak_planks_stairs": "Blood Oak Stairs",
@@ -13137,6 +13178,7 @@
       "block.nature_and_harmony.eminence_fence": "Eminence Planks Fence",
       "block.nature_and_harmony.antimonite_panel": "Ribbed Antimonite",
       "block.nature_and_harmony.tuff_bricks_stairs": "Tuff Bricks Stairs",
+      "block.nature_and_harmony.underworld_sand_purple": "Underworld Sand",
       "block.nature_and_harmony.tall_ice_spike_block": "Tall Ice Spike",
       "block.nature_and_harmony.polished_black_marble_stairs": "Polished Marble Stairs",
       "block.nature_and_harmony.darkonite_black_polished_slab": "Polished Darkonite Slab",

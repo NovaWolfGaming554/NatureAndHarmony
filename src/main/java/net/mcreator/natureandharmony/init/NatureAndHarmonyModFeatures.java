@@ -41,6 +41,8 @@ import net.mcreator.natureandharmony.world.features.plants.AshTuffsFeature;
 import net.mcreator.natureandharmony.world.features.ores.WitheredMossFeature;
 import net.mcreator.natureandharmony.world.features.ores.VenomiteFeature;
 import net.mcreator.natureandharmony.world.features.ores.VekreniteFeature;
+import net.mcreator.natureandharmony.world.features.ores.UnderworldSandPurpleFeature;
+import net.mcreator.natureandharmony.world.features.ores.UnderworldSandBrownFeature;
 import net.mcreator.natureandharmony.world.features.ores.UnderworldGrassRedFloweredFeature;
 import net.mcreator.natureandharmony.world.features.ores.UnderworldGrassFloweredfFeature;
 import net.mcreator.natureandharmony.world.features.ores.SulphurOreFeature;
@@ -146,4 +148,6 @@ public class NatureAndHarmonyModFeatures {
 	public static final RegistryObject<Feature<?>> DEAD_WEEDS = REGISTRY.register("dead_weeds", DeadWeedsFeature::new);
 	public static final RegistryObject<Feature<?>> DEAD_WEEDS_2 = REGISTRY.register("dead_weeds_2", DeadWeeds2Feature::new);
 	public static final RegistryObject<Feature<?>> DEAD_WEEDS_3 = REGISTRY.register("dead_weeds_3", DeadWeeds3Feature::new);
+	public static final RegistryObject<Feature<?>> UNDERWORLD_SAND_PURPLE = REGISTRY.register("underworld_sand_purple", UnderworldSandPurpleFeature::new);
+	public static final RegistryObject<Feature<?>> UNDERWORLD_SAND_BROWN = REGISTRY.register("underworld_sand_brown", UnderworldSandBrownFeature::new);
 }

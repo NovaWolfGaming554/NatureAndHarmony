@@ -28,6 +28,8 @@ import net.mcreator.natureandharmony.block.VekreniteBricksSlabBlock;
 import net.mcreator.natureandharmony.block.VekreniteBricksBlock;
 import net.mcreator.natureandharmony.block.VekreniteBlock;
 import net.mcreator.natureandharmony.block.UnderworldSandstoneBlock;
+import net.mcreator.natureandharmony.block.UnderworldSandPurpleBlock;
+import net.mcreator.natureandharmony.block.UnderworldSandBrownBlock;
 import net.mcreator.natureandharmony.block.UnderworldSandBlock;
 import net.mcreator.natureandharmony.block.UnderworldPortalBlock;
 import net.mcreator.natureandharmony.block.UnderworldGrassTuftsBlock;
@@ -574,6 +576,8 @@ public class NatureAndHarmonyModBlocks {
 	public static final RegistryObject<Block> DARKONITE_BLACK_CHISELED = REGISTRY.register("darkonite_black_chiseled", () -> new DarkoniteBlackChiseledBlock());
 	public static final RegistryObject<Block> DARKONITE_BLACK_TILES = REGISTRY.register("darkonite_black_tiles", () -> new DarkoniteBlackTilesBlock());
 	public static final RegistryObject<Block> DARKONITE_BLACK_CARVED = REGISTRY.register("darkonite_black_carved", () -> new DarkoniteBlackCarvedBlock());
+	public static final RegistryObject<Block> UNDERWORLD_SAND_PURPLE = REGISTRY.register("underworld_sand_purple", () -> new UnderworldSandPurpleBlock());
+	public static final RegistryObject<Block> UNDERWORLD_SAND_BROWN = REGISTRY.register("underworld_sand_brown", () -> new UnderworldSandBrownBlock());
 
 	@Mod.EventBusSubscriber(bus = Mod.EventBusSubscriber.Bus.MOD, value = Dist.CLIENT)
 	public static class ClientSideHandler {

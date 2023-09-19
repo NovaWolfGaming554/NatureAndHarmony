@@ -387,6 +387,8 @@ public class NatureAndHarmonyModItems {
 	public static final RegistryObject<Item> DARKONITE_BLACK_CHISELED = block(NatureAndHarmonyModBlocks.DARKONITE_BLACK_CHISELED);
 	public static final RegistryObject<Item> DARKONITE_BLACK_TILES = block(NatureAndHarmonyModBlocks.DARKONITE_BLACK_TILES);
 	public static final RegistryObject<Item> DARKONITE_BLACK_CARVED = block(NatureAndHarmonyModBlocks.DARKONITE_BLACK_CARVED);
+	public static final RegistryObject<Item> UNDERWORLD_SAND_PURPLE = block(NatureAndHarmonyModBlocks.UNDERWORLD_SAND_PURPLE);
+	public static final RegistryObject<Item> UNDERWORLD_SAND_BROWN = block(NatureAndHarmonyModBlocks.UNDERWORLD_SAND_BROWN);
 
 	private static RegistryObject<Item> block(RegistryObject<Block> block) {
 		return REGISTRY.register(block.getId().getPath(), () -> new BlockItem(block.get(), new Item.Properties()));

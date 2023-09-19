@@ -270,6 +270,8 @@ public class NatureAndHarmonyModTabs {
 					tabData.accept(NatureAndHarmonyModBlocks.DARKONITE_BLACK_CHISELED.get().asItem());
 					tabData.accept(NatureAndHarmonyModBlocks.DARKONITE_BLACK_TILES.get().asItem());
 					tabData.accept(NatureAndHarmonyModBlocks.DARKONITE_BLACK_CARVED.get().asItem());
+					tabData.accept(NatureAndHarmonyModBlocks.UNDERWORLD_SAND_PURPLE.get().asItem());
+					tabData.accept(NatureAndHarmonyModBlocks.UNDERWORLD_SAND_BROWN.get().asItem());
 				})
 
 		);
