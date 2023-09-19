@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " 1",
+    "23",
+    " 5"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:fermented_spider_eye"
+    },
+    "2": {
+      "item": "nature_and_harmony:grapes_white"
+    },
+    "3": {
+      "item": "minecraft:apple"
+    },
+    "5": {
+      "item": "minecraft:glass_bottle"
+    }
+  },
+  "result": {
+    "item": "nature_and_harmony:grape_cider",
+    "count": 1
+  }
+}

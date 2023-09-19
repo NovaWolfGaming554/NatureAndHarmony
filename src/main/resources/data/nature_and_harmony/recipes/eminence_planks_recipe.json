@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "nature_and_harmony:eminence_stem"
+    }
+  },
+  "result": {
+    "item": "nature_and_harmony:deleted_mod_element",
+    "count": 4
+  }
+}

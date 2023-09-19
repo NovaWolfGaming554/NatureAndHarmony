@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "nature_and_harmony:limestone_bricks"
+    },
+    "1": {
+      "item": "nature_and_harmony:limestone_bricks"
+    },
+    "2": {
+      "item": "nature_and_harmony:limestone_bricks"
+    },
+    "3": {
+      "item": "nature_and_harmony:limestone_bricks"
+    }
+  },
+  "result": {
+    "item": "nature_and_harmony:chiseled_limestone",
+    "count": 4
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "nature_and_harmony:bauxite"
+    },
+    "1": {
+      "item": "nature_and_harmony:bauxite"
+    },
+    "2": {
+      "item": "nature_and_harmony:bauxite"
+    },
+    "3": {
+      "item": "nature_and_harmony:bauxite"
+    }
+  },
+  "result": {
+    "item": "nature_and_harmony:bauxite_polished",
+    "count": 4
+  }
+}

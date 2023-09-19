@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "nature_and_harmony:block/chalk_red",
+    "particle": "nature_and_harmony:block/chalk_red"
+  },
+  "render_type": "solid"
+}

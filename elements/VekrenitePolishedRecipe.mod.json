@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 4,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Vekrenite"
+      },
+      {
+        "value": "CUSTOM:Vekrenite"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Vekrenite"
+      },
+      {
+        "value": "CUSTOM:Vekrenite"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:VekrenitePolished"
+    },
+    "name": "vekrenite_polished_recipe",
+    "namespace": "mod"
+  }
+}

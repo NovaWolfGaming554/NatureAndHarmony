@@ -1,0 +1,22 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Campfire cooking",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 1.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "campfireCookingInputStack": {
+      "value": "Items.ROTTEN_FLESH"
+    },
+    "campfireCookingReturnStack": {
+      "value": "CUSTOM:Flesh"
+    },
+    "name": "flesh_recipe_3",
+    "namespace": "mod"
+  }
+}

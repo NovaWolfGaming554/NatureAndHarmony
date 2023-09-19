@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_side_tall",
+  "textures": {
+    "wall": "nature_and_harmony:block/peak_schist_bricks",
+    "particle": "nature_and_harmony:block/peak_schist_bricks"
+  },
+  "render_type": "solid"
+}

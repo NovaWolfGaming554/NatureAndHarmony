@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "nature_and_harmony:block/polished_marble_black",
+    "top": "nature_and_harmony:block/polished_marble_black",
+    "side": "nature_and_harmony:block/polished_marble_black"
+  },
+  "render_type": "solid"
+}

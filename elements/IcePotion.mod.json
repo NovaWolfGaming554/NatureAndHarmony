@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "potion",
+  "definition": {
+    "potionName": "Potion of Ice Speed",
+    "splashName": "Splash Potion of Ice Speed",
+    "lingeringName": "Lingering Potion of Ice Speed",
+    "arrowName": "Arrow of Ice Speed",
+    "effects": [
+      {
+        "effect": {
+          "value": "CUSTOM:IceSpikeSpeed"
+        },
+        "duration": 3600,
+        "amplifier": 0,
+        "ambient": false,
+        "showParticles": true
+      }
+    ]
+  }
+}

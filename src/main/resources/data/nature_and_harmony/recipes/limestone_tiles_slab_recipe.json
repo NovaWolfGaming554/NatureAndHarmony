@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "nature_and_harmony:limestone_tiles"
+    },
+    "1": {
+      "item": "nature_and_harmony:limestone_tiles"
+    },
+    "2": {
+      "item": "nature_and_harmony:limestone_tiles"
+    }
+  },
+  "result": {
+    "item": "nature_and_harmony:limestone_tiles_slab",
+    "count": 6
+  }
+}

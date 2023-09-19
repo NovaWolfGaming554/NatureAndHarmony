@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "nature_and_harmony:block/sulphur_ore_remake",
+    "particle": "nature_and_harmony:block/sulphur_ore_remake"
+  },
+  "render_type": "solid"
+}

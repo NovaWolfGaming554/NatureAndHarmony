@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "nature_and_harmony:block/marble_black_bricks",
+    "top": "nature_and_harmony:block/marble_black_bricks",
+    "side": "nature_and_harmony:block/marble_black_bricks"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:chiseled_stone_bricks"
+    },
+    "1": {
+      "item": "minecraft:vine"
+    }
+  },
+  "result": {
+    "item": "nature_and_harmony:mossy_chiseled_stone_bricks",
+    "count": 1
+  }
+}

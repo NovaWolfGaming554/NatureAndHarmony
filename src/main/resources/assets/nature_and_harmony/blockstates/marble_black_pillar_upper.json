@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "nature_and_harmony:block/marble_black_pillar_upper",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "nature_and_harmony:block/marble_black_pillar_upper"
+    },
+    "axis=z": {
+      "model": "nature_and_harmony:block/marble_black_pillar_upper",
+      "x": 90
+    }
+  }
+}

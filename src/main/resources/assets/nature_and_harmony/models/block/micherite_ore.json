@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nature_and_harmony:block/micherite_ore",
+    "up": "nature_and_harmony:block/micherite_ore",
+    "north": "nature_and_harmony:block/micherite_ore",
+    "east": "nature_and_harmony:block/micherite_ore",
+    "south": "nature_and_harmony:block/micherite_ore",
+    "west": "nature_and_harmony:block/micherite_ore",
+    "particle": "nature_and_harmony:block/micherite_ore"
+  },
+  "render_type": "solid"
+}

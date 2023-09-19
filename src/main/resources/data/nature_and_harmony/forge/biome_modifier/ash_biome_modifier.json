@@ -1,0 +1,8 @@
+{
+  "type": "forge:add_features",
+  "biomes": {
+    "type": "forge:any"
+  },
+  "features": "nature_and_harmony:ash",
+  "step": "underground_ores"
+}

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "nature_and_harmony:peak_schist"
+    },
+    "1": {
+      "item": "nature_and_harmony:peak_schist"
+    },
+    "2": {
+      "item": "nature_and_harmony:peak_schist"
+    },
+    "3": {
+      "item": "nature_and_harmony:peak_schist"
+    }
+  },
+  "result": {
+    "item": "nature_and_harmony:peak_schist_polished",
+    "count": 4
+  }
+}

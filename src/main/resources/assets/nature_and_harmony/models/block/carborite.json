@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nature_and_harmony:block/carborite",
+    "up": "nature_and_harmony:block/carborite",
+    "north": "nature_and_harmony:block/carborite",
+    "east": "nature_and_harmony:block/carborite",
+    "south": "nature_and_harmony:block/carborite",
+    "west": "nature_and_harmony:block/carborite",
+    "particle": "nature_and_harmony:block/carborite"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,15 @@
+{
+  "_fv": 47,
+  "_type": "itemextension",
+  "definition": {
+    "item": {
+      "value": "CUSTOM:Michrite"
+    },
+    "enableFuel": true,
+    "fuelPower": {
+      "fixedValue": 1700.0
+    },
+    "hasDispenseBehavior": false,
+    "compostLayerChance": 0.0
+  }
+}

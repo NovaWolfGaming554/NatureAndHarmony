@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:netherrack"
+    },
+    "1": {
+      "item": "minecraft:vine"
+    }
+  },
+  "result": {
+    "item": "nature_and_harmony:mossy_netherrack",
+    "count": 1
+  }
+}

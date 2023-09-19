@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nature_and_harmony:block/underworld_sand",
+    "up": "nature_and_harmony:block/underworld_sand",
+    "north": "nature_and_harmony:block/underworld_sand",
+    "east": "nature_and_harmony:block/underworld_sand",
+    "south": "nature_and_harmony:block/underworld_sand",
+    "west": "nature_and_harmony:block/underworld_sand",
+    "particle": "nature_and_harmony:block/underworld_sand"
+  },
+  "render_type": "solid"
+}

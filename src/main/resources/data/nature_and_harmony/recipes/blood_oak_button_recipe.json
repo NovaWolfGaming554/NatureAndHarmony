@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "nature_and_harmony:blood_oak_planks"
+    }
+  },
+  "result": {
+    "item": "nature_and_harmony:blood_oak_button",
+    "count": 1
+  }
+}

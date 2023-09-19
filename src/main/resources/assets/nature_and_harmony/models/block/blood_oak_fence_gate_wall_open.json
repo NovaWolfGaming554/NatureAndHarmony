@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_fence_gate_wall_open",
+  "textures": {
+    "texture": "nature_and_harmony:block/blood_oak_planks_2"
+  },
+  "render_type": "solid"
+}

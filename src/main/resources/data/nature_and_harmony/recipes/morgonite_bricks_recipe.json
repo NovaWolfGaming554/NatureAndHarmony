@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "nature_and_harmony:morgonite_polished"
+    },
+    "1": {
+      "item": "nature_and_harmony:morgonite_polished"
+    },
+    "2": {
+      "item": "nature_and_harmony:morgonite_polished"
+    },
+    "3": {
+      "item": "nature_and_harmony:morgonite_polished"
+    }
+  },
+  "result": {
+    "item": "nature_and_harmony:morgonite_bricks",
+    "count": 4
+  }
+}

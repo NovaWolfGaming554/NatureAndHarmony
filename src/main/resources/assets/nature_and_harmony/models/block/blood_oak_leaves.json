@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "nature_and_harmony:block/blood_oak_leaves",
+    "particle": "nature_and_harmony:block/blood_oak_leaves"
+  }
+}

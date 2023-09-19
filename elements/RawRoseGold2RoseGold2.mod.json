@@ -1,0 +1,22 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Blasting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 1.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "blastingInputStack": {
+      "value": "CUSTOM:RawRoseGold"
+    },
+    "blastingReturnStack": {
+      "value": "CUSTOM:RoseGoldIngot"
+    },
+    "name": "raw_rose_gold_2_rose_gold_2",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_fv": 47,
+  "_type": "dimension",
+  "definition": {
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:UnderworldPlains"
+      },
+      {
+        "value": "CUSTOM:SchistPeaks"
+      },
+      {
+        "value": "CUSTOM:LunarPlains"
+      },
+      {
+        "value": "CUSTOM:AshBarrens"
+      },
+      {
+        "value": "CUSTOM:EminenceForest"
+      },
+      {
+        "value": "CUSTOM:UnderworldDesert"
+      }
+    ],
+    "worldGenType": "Normal world gen",
+    "mainFillerBlock": {
+      "value": "CUSTOM:Carborite"
+    },
+    "fluidBlock": {
+      "value": "Blocks.FLOWING_WATER"
+    },
+    "airColor": {
+      "value": -13057,
+      "falpha": 0.0
+    },
+    "canRespawnHere": true,
+    "hasFog": false,
+    "isDark": false,
+    "doesWaterVaporize": false,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": true,
+    "imitateOverworldBehaviour": true,
+    "portalFrame": {
+      "value": "CUSTOM:GlowingObsidian"
+    },
+    "portalParticles": {
+      "value": "PORTAL"
+    },
+    "portalLuminance": 5,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "enableIgniter": true,
+    "igniterName": "Strange Chisel-Like Item",
+    "specialInfo": [],
+    "igniterTab": {
+      "value": "CUSTOM:NatureAndHarmonyItems"
+    },
+    "texture": "portal_igniter",
+    "portalTexture": "portal_block",
+    "enablePortal": true
+  }
+}

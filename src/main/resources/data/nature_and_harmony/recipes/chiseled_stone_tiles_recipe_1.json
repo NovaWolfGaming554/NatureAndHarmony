@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "nature_and_harmony:stone_tiles"
+    },
+    "1": {
+      "item": "nature_and_harmony:stone_tiles"
+    },
+    "2": {
+      "item": "nature_and_harmony:stone_tiles"
+    },
+    "3": {
+      "item": "nature_and_harmony:stone_tiles"
+    }
+  },
+  "result": {
+    "item": "nature_and_harmony:chiseled_stone_tiles",
+    "count": 1
+  }
+}

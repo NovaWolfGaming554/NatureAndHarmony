@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 6,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:TuffBricks"
+      },
+      {
+        "value": "CUSTOM:TuffBricks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:TuffBricks"
+      },
+      {
+        "value": "CUSTOM:TuffBricks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:TuffBricks"
+      },
+      {
+        "value": "CUSTOM:TuffBricks"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:TuffBricksWall"
+    },
+    "name": "tuff_bricks_wall_recipe",
+    "namespace": "mod"
+  }
+}

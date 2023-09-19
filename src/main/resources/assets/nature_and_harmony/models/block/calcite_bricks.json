@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nature_and_harmony:block/calcite_bricks",
+    "up": "nature_and_harmony:block/calcite_bricks",
+    "north": "nature_and_harmony:block/calcite_bricks",
+    "east": "nature_and_harmony:block/calcite_bricks",
+    "south": "nature_and_harmony:block/calcite_bricks",
+    "west": "nature_and_harmony:block/calcite_bricks",
+    "particle": "nature_and_harmony:block/calcite_bricks"
+  },
+  "render_type": "solid"
+}

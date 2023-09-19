@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "nature_and_harmony:sun_dial_flower"
+    }
+  },
+  "result": {
+    "item": "minecraft:orange_dye",
+    "count": 1
+  }
+}

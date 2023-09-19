@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nature_and_harmony:block/quartz_sand",
+    "up": "nature_and_harmony:block/quartz_sand",
+    "north": "nature_and_harmony:block/quartz_sand",
+    "east": "nature_and_harmony:block/quartz_sand",
+    "south": "nature_and_harmony:block/quartz_sand",
+    "west": "nature_and_harmony:block/quartz_sand",
+    "particle": "nature_and_harmony:block/quartz_sand"
+  },
+  "render_type": "solid"
+}

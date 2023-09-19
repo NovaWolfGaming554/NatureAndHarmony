@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "nature_and_harmony:block/underworld_grass_plant_frosted",
+    "particle": "nature_and_harmony:block/underworld_grass_plant_frosted"
+  },
+  "render_type": "cutout"
+}

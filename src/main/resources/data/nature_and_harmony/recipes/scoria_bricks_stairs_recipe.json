@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "nature_and_harmony:scoria_bricks"
+    },
+    "3": {
+      "item": "nature_and_harmony:scoria_bricks"
+    },
+    "4": {
+      "item": "nature_and_harmony:scoria_bricks"
+    },
+    "6": {
+      "item": "nature_and_harmony:scoria_bricks"
+    },
+    "7": {
+      "item": "nature_and_harmony:scoria_bricks"
+    },
+    "8": {
+      "item": "nature_and_harmony:scoria_bricks"
+    }
+  },
+  "result": {
+    "item": "nature_and_harmony:scoria_bricks_stairs",
+    "count": 4
+  }
+}

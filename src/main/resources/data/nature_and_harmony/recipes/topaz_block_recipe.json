@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "nature_and_harmony:topaz"
+    },
+    "1": {
+      "item": "nature_and_harmony:topaz"
+    },
+    "2": {
+      "item": "nature_and_harmony:topaz"
+    },
+    "3": {
+      "item": "nature_and_harmony:topaz"
+    },
+    "4": {
+      "item": "nature_and_harmony:topaz"
+    },
+    "5": {
+      "item": "nature_and_harmony:topaz"
+    },
+    "6": {
+      "item": "nature_and_harmony:topaz"
+    },
+    "7": {
+      "item": "nature_and_harmony:topaz"
+    },
+    "8": {
+      "item": "nature_and_harmony:topaz"
+    }
+  },
+  "result": {
+    "item": "nature_and_harmony:topaz_block",
+    "count": 1
+  }
+}

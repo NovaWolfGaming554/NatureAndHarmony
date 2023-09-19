@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "nature_and_harmony:underworld_desert",
+  "features": "nature_and_harmony:cactus",
+  "step": "vegetal_decoration"
+}

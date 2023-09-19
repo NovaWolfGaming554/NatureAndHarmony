@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_post",
+  "textures": {
+    "wall": "nature_and_harmony:block/tuff_bricks",
+    "particle": "nature_and_harmony:block/tuff_bricks"
+  },
+  "render_type": "solid"
+}

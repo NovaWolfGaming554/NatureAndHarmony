@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "nature_and_harmony:eminence_forest",
+  "features": "nature_and_harmony:eminence_flower",
+  "step": "vegetal_decoration"
+}

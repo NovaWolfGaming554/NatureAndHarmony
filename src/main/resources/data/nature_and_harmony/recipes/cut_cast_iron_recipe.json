@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "nature_and_harmony:cast_iron_block"
+    },
+    "1": {
+      "item": "nature_and_harmony:cast_iron_block"
+    },
+    "2": {
+      "item": "nature_and_harmony:cast_iron_block"
+    },
+    "3": {
+      "item": "nature_and_harmony:cast_iron_block"
+    }
+  },
+  "result": {
+    "item": "nature_and_harmony:cut_cast_iron",
+    "count": 4
+  }
+}

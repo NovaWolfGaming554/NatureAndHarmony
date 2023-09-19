@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 4,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:DarkoniteBlackBricks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:DarkoniteBlackBricks"
+      },
+      {
+        "value": "CUSTOM:DarkoniteBlackBricks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:DarkoniteBlackBricks"
+      },
+      {
+        "value": "CUSTOM:DarkoniteBlackBricks"
+      },
+      {
+        "value": "CUSTOM:DarkoniteBlackBricks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:DarkoniteBlackBricksStairs"
+    },
+    "name": "darkonite_black_bricks_stairs_recipe",
+    "namespace": "mod"
+  }
+}

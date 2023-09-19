@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0 ",
+    " 3"
+  ],
+  "key": {
+    "0": {
+      "item": "nature_and_harmony:michrite"
+    },
+    "3": {
+      "item": "nature_and_harmony:quartz_dust"
+    }
+  },
+  "result": {
+    "item": "nature_and_harmony:micherite_and_quartz",
+    "count": 1
+  }
+}

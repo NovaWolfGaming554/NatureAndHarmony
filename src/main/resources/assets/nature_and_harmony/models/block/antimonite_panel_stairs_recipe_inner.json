@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "nature_and_harmony:block/antimolite_panel",
+    "top": "nature_and_harmony:block/antimolite_panel",
+    "side": "nature_and_harmony:block/antimolite_panel"
+  },
+  "render_type": "solid"
+}

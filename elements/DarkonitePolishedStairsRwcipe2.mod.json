@@ -1,0 +1,22 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Stone cutting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "stoneCuttingInputStack": {
+      "value": "CUSTOM:Darkonite"
+    },
+    "stoneCuttingReturnStack": {
+      "value": "CUSTOM:DarkonitePolishedStairs"
+    },
+    "name": "darkonite_polished_stairs_rwcipe_2",
+    "namespace": "mod"
+  }
+}

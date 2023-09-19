@@ -1,0 +1,33 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:Ash"
+      },
+      {
+        "value": "CUSTOM:WitheredMoss"
+      },
+      {
+        "value": "CUSTOM:UnderworldGrass"
+      },
+      {
+        "value": "CUSTOM:UnderworldGrassFloweredf"
+      },
+      {
+        "value": "CUSTOM:Frost"
+      },
+      {
+        "value": "CUSTOM:DarkoniteSnowy"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "dirt",
+    "namespace": "forge"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "nature_and_harmony:block/eminence_fungus",
+    "particle": "nature_and_harmony:block/eminence_fungus"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nature_and_harmony:block/withered_bone_block_side",
+    "up": "nature_and_harmony:block/withered_moss_top",
+    "north": "nature_and_harmony:block/withered_moss_side",
+    "east": "nature_and_harmony:block/withered_moss_side",
+    "south": "nature_and_harmony:block/withered_moss_side",
+    "west": "nature_and_harmony:block/withered_moss_side",
+    "particle": "nature_and_harmony:block/withered_bone_block_side"
+  },
+  "render_type": "solid"
+}

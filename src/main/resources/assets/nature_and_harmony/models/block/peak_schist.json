@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nature_and_harmony:block/peak_schist",
+    "up": "nature_and_harmony:block/peak_schist",
+    "north": "nature_and_harmony:block/peak_schist",
+    "east": "nature_and_harmony:block/peak_schist",
+    "south": "nature_and_harmony:block/peak_schist",
+    "west": "nature_and_harmony:block/peak_schist",
+    "particle": "nature_and_harmony:block/peak_schist"
+  },
+  "render_type": "solid"
+}

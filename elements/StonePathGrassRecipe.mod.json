@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 2,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:StoneTiles"
+      },
+      {
+        "value": "Blocks.GRASS"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.GRASS"
+      },
+      {
+        "value": "CUSTOM:StoneTiles"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:StonePathDirt"
+    },
+    "name": "stone_path_grass_recipe",
+    "namespace": "mod"
+  }
+}

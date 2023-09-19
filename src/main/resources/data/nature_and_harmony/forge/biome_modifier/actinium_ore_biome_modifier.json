@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "nature_and_harmony:underworld_desert",
+    "nature_and_harmony:lunar_plains",
+    "nature_and_harmony:ash_barrens"
+  ],
+  "features": "nature_and_harmony:actinium_ore",
+  "step": "underground_ores"
+}

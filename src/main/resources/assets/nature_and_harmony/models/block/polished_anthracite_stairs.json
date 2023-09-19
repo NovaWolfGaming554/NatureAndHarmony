@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "nature_and_harmony:block/anthracite2_polished",
+    "top": "nature_and_harmony:block/anthracite2_polished",
+    "side": "nature_and_harmony:block/anthracite2_polished"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nature_and_harmony:block/topaz_ore_1_17",
+    "up": "nature_and_harmony:block/topaz_ore_1_17",
+    "north": "nature_and_harmony:block/topaz_ore_1_17",
+    "east": "nature_and_harmony:block/topaz_ore_1_17",
+    "south": "nature_and_harmony:block/topaz_ore_1_17",
+    "west": "nature_and_harmony:block/topaz_ore_1_17",
+    "particle": "nature_and_harmony:block/topaz_ore_1_17"
+  },
+  "render_type": "solid"
+}

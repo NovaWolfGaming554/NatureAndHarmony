@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nature_and_harmony:block/stone_panel_top",
+    "up": "nature_and_harmony:block/stone_panel_top",
+    "north": "nature_and_harmony:block/stone_carved_panel",
+    "east": "nature_and_harmony:block/stone_carved_panel",
+    "south": "nature_and_harmony:block/stone_carved_panel",
+    "west": "nature_and_harmony:block/stone_carved_panel",
+    "particle": "nature_and_harmony:block/stone_panel_top"
+  },
+  "render_type": "solid"
+}

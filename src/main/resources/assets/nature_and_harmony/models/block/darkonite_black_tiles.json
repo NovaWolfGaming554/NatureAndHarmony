@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nature_and_harmony:block/darkronite_black_tiles",
+    "up": "nature_and_harmony:block/darkronite_black_tiles",
+    "north": "nature_and_harmony:block/darkronite_black_tiles",
+    "east": "nature_and_harmony:block/darkronite_black_tiles",
+    "south": "nature_and_harmony:block/darkronite_black_tiles",
+    "west": "nature_and_harmony:block/darkronite_black_tiles",
+    "particle": "nature_and_harmony:block/darkronite_black_tiles"
+  },
+  "render_type": "solid"
+}

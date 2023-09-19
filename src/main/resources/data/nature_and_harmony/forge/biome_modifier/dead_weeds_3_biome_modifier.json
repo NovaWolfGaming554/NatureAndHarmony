@@ -1,0 +1,9 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "nature_and_harmony:underworld_desert",
+    "nature_and_harmony:ash_barrens"
+  ],
+  "features": "nature_and_harmony:dead_weeds_3",
+  "step": "vegetal_decoration"
+}

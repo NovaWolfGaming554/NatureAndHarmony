@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "nature_and_harmony:block/calcite_path",
+    "particle": "nature_and_harmony:block/calcite_path"
+  },
+  "render_type": "solid"
+}

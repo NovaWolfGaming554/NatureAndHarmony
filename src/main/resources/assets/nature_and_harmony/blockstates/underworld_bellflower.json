@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "nature_and_harmony:block/underworld_bellflower"
+    },
+    "half=lower": {
+      "model": "nature_and_harmony:block/underworld_bellflower_bottom"
+    }
+  }
+}

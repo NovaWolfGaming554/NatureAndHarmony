@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "nature_and_harmony:peak_schist_bricks"
+    },
+    "1": {
+      "item": "nature_and_harmony:peak_schist_bricks"
+    },
+    "2": {
+      "item": "nature_and_harmony:peak_schist_bricks"
+    },
+    "3": {
+      "item": "nature_and_harmony:peak_schist_bricks"
+    },
+    "4": {
+      "item": "nature_and_harmony:peak_schist_bricks"
+    },
+    "5": {
+      "item": "nature_and_harmony:peak_schist_bricks"
+    }
+  },
+  "result": {
+    "item": "nature_and_harmony:peak_schist_bricks_wall",
+    "count": 6
+  }
+}

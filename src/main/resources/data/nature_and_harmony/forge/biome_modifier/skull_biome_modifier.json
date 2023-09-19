@@ -1,0 +1,14 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [
+    "nature_and_harmony:eminence_forest",
+    "soul_sand_valley",
+    "nature_and_harmony:ash_barrens"
+  ],
+  "spawners": {
+    "type": "nature_and_harmony:skull",
+    "weight": 13,
+    "minCount": 1,
+    "maxCount": 3
+  }
+}

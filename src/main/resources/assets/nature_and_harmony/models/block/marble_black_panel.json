@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nature_and_harmony:block/marble_black_smooth",
+    "up": "nature_and_harmony:block/marble_black_smooth",
+    "north": "nature_and_harmony:block/marble_black_panel",
+    "east": "nature_and_harmony:block/marble_black_panel",
+    "south": "nature_and_harmony:block/marble_black_panel",
+    "west": "nature_and_harmony:block/marble_black_panel",
+    "particle": "nature_and_harmony:block/marble_black_smooth"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nature_and_harmony:block/darkronite_black_chiseled",
+    "up": "nature_and_harmony:block/darkronite_black_chiseled",
+    "north": "nature_and_harmony:block/darkronite_black_chiseled",
+    "east": "nature_and_harmony:block/darkronite_black_chiseled",
+    "south": "nature_and_harmony:block/darkronite_black_chiseled",
+    "west": "nature_and_harmony:block/darkronite_black_chiseled",
+    "particle": "nature_and_harmony:block/darkronite_black_chiseled"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,22 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Stone cutting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "stoneCuttingInputStack": {
+      "value": "CUSTOM:MarbleBricks"
+    },
+    "stoneCuttingReturnStack": {
+      "value": "CUSTOM:MarblePillarUpper"
+    },
+    "name": "marble_pillar_upper_recipe_4",
+    "namespace": "mod"
+  }
+}

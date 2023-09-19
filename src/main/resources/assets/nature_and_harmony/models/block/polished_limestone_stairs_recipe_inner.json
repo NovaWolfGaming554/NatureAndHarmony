@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "nature_and_harmony:block/limestone3_polished",
+    "top": "nature_and_harmony:block/limestone3_polished",
+    "side": "nature_and_harmony:block/limestone3_polished"
+  },
+  "render_type": "solid"
+}

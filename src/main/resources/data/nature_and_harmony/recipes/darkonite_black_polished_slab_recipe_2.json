@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "nature_and_harmony:darkonite_black_polished"
+  },
+  "result": "nature_and_harmony:darkonite_black_polished_slab"
+}

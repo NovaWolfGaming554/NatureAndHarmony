@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "nature_and_harmony:block/polished_black_marble_slab"
+    },
+    "type=top": {
+      "model": "nature_and_harmony:block/polished_black_marble_slab_top"
+    },
+    "type=double": {
+      "model": "nature_and_harmony:block/polished_black_marble_slab_full"
+    }
+  }
+}

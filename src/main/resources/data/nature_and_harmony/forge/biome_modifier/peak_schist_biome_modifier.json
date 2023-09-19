@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "nature_and_harmony:schist_peaks",
+  "features": "nature_and_harmony:peak_schist",
+  "step": "underground_ores"
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "minecraft:calcite"
+  },
+  "result": "nature_and_harmony:calcite_bricks_slab"
+}

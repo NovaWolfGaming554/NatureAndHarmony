@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:RawRoseGold"
+      },
+      {
+        "value": "CUSTOM:RawRoseGold"
+      },
+      {
+        "value": "CUSTOM:RawRoseGold"
+      },
+      {
+        "value": "CUSTOM:RawRoseGold"
+      },
+      {
+        "value": "CUSTOM:RawRoseGold"
+      },
+      {
+        "value": "CUSTOM:RawRoseGold"
+      },
+      {
+        "value": "CUSTOM:RawRoseGold"
+      },
+      {
+        "value": "CUSTOM:RawRoseGold"
+      },
+      {
+        "value": "CUSTOM:RawRoseGold"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:RawRoseGoldBlock"
+    },
+    "name": "raw_rose_gold_block_recipe",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nature_and_harmony:block/yellow_topaz_block_gusten21",
+    "up": "nature_and_harmony:block/yellow_topaz_block_gusten21",
+    "north": "nature_and_harmony:block/yellow_topaz_block_gusten21",
+    "east": "nature_and_harmony:block/yellow_topaz_block_gusten21",
+    "south": "nature_and_harmony:block/yellow_topaz_block_gusten21",
+    "west": "nature_and_harmony:block/yellow_topaz_block_gusten21",
+    "particle": "nature_and_harmony:block/yellow_topaz_block_gusten21"
+  },
+  "render_type": "solid"
+}

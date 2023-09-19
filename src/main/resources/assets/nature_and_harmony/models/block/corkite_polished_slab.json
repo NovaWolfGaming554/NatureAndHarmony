@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "nature_and_harmony:block/corkite_bricks",
+    "top": "nature_and_harmony:block/corkite_bricks",
+    "side": "nature_and_harmony:block/corkite_bricks"
+  },
+  "render_type": "solid"
+}

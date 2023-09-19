@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 4,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:ScoriaRedBricks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:ScoriaRedBricks"
+      },
+      {
+        "value": "CUSTOM:ScoriaRedBricks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:ScoriaRedBricks"
+      },
+      {
+        "value": "CUSTOM:ScoriaRedBricks"
+      },
+      {
+        "value": "CUSTOM:ScoriaRedBricks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:ScoriaRedBricksStairs"
+    },
+    "name": "scoria_red_bricks_stairs_recipe",
+    "namespace": "mod"
+  }
+}

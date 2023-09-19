@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "nature_and_harmony:block/cut_cast_iron",
+    "particle": "nature_and_harmony:block/cut_cast_iron"
+  },
+  "render_type": "solid"
+}

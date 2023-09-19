@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "nature_and_harmony:bauxite"
+  },
+  "result": "nature_and_harmony:bauxite_polished"
+}

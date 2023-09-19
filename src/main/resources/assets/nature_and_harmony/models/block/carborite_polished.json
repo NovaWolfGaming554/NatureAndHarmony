@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nature_and_harmony:block/carborite_polished",
+    "up": "nature_and_harmony:block/carborite_polished",
+    "north": "nature_and_harmony:block/carborite_polished",
+    "east": "nature_and_harmony:block/carborite_polished",
+    "south": "nature_and_harmony:block/carborite_polished",
+    "west": "nature_and_harmony:block/carborite_polished",
+    "particle": "nature_and_harmony:block/carborite_polished"
+  },
+  "render_type": "solid"
+}

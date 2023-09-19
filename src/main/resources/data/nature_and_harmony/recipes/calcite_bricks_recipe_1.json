@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "nature_and_harmony:calcite_polished"
+    },
+    "1": {
+      "item": "nature_and_harmony:calcite_polished"
+    },
+    "2": {
+      "item": "nature_and_harmony:calcite_polished"
+    },
+    "3": {
+      "item": "nature_and_harmony:calcite_polished"
+    }
+  },
+  "result": {
+    "item": "nature_and_harmony:calcite_bricks",
+    "count": 4
+  }
+}

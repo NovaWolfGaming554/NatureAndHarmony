@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "nature_and_harmony:block/underworld_grass_tall"
+    },
+    "half=lower": {
+      "model": "nature_and_harmony:block/underworld_grass_tall_bottom"
+    }
+  }
+}

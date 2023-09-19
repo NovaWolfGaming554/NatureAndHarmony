@@ -1,0 +1,22 @@
+{
+  "replace": false,
+  "values": [
+    "nature_and_harmony:eminence_stem",
+    "nature_and_harmony:eminence_planks_stairs",
+    "nature_and_harmony:eminence_planks_slab",
+    "nature_and_harmony:eminence_fence",
+    "nature_and_harmony:eminence_fence_gate",
+    "nature_and_harmony:eminence_door",
+    "nature_and_harmony:eminence_trapdoor",
+    "nature_and_harmony:blood_oak_log",
+    "nature_and_harmony:blood_oak_planks",
+    "nature_and_harmony:blood_oak_planks_stairs",
+    "nature_and_harmony:blood_oak_slab",
+    "nature_and_harmony:blood_oak_fence",
+    "nature_and_harmony:blood_oak_fence_gate",
+    "nature_and_harmony:blood_oak_pressure_plate",
+    "nature_and_harmony:blood_oak_button",
+    "nature_and_harmony:blood_oak_door",
+    "nature_and_harmony:blood_oak_trapdoor"
+  ]
+}

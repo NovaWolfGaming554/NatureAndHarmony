@@ -1,0 +1,20 @@
+{
+  "type": "nature_and_harmony:darkonite_snowy",
+  "config": {
+    "size": 26,
+    "discard_chance_on_air_exposure": 0,
+    "targets": [
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "nature_and_harmony:darkonite"
+          }
+        },
+        "state": {
+          "Name": "nature_and_harmony:darkonite_snowy"
+        }
+      }
+    ]
+  }
+}

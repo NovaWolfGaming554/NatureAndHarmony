@@ -1,0 +1,8 @@
+{
+  "parent": "block/crop",
+  "textures": {
+    "crop": "nature_and_harmony:block/micherite_fire_2",
+    "particle": "nature_and_harmony:block/micherite_fire_2"
+  },
+  "render_type": "cutout"
+}

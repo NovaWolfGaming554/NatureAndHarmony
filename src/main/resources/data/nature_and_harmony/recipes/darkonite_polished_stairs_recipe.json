@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "nature_and_harmony:darkonite_polished"
+    },
+    "3": {
+      "item": "nature_and_harmony:darkonite_polished"
+    },
+    "4": {
+      "item": "nature_and_harmony:darkonite_polished"
+    },
+    "6": {
+      "item": "nature_and_harmony:darkonite_polished"
+    },
+    "7": {
+      "item": "nature_and_harmony:darkonite_polished"
+    },
+    "8": {
+      "item": "nature_and_harmony:darkonite_polished"
+    }
+  },
+  "result": {
+    "item": "nature_and_harmony:darkonite_polished_stairs",
+    "count": 4
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "nature_and_harmony:block/vekrenite",
+    "particle": "nature_and_harmony:block/vekrenite"
+  },
+  "render_type": "solid"
+}

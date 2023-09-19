@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " 12",
+    "3 5",
+    " 78"
+  ],
+  "key": {
+    "1": {
+      "item": "nature_and_harmony:actinium_ingot"
+    },
+    "2": {
+      "item": "nature_and_harmony:silver_thread"
+    },
+    "3": {
+      "item": "nature_and_harmony:actinium_ingot"
+    },
+    "5": {
+      "item": "nature_and_harmony:silver_thread"
+    },
+    "7": {
+      "item": "nature_and_harmony:actinium_ingot"
+    },
+    "8": {
+      "item": "nature_and_harmony:silver_thread"
+    }
+  },
+  "result": {
+    "item": "nature_and_harmony:actinium_bow",
+    "count": 1
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "nature_and_harmony:block/ice_spike_big_bottom",
+    "particle": "nature_and_harmony:block/ice_spike_big_bottom"
+  },
+  "render_type": "cutout"
+}

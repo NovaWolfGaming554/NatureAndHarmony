@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "nature_and_harmony:anthracite"
+    },
+    "1": {
+      "item": "nature_and_harmony:anthracite"
+    },
+    "2": {
+      "item": "nature_and_harmony:anthracite"
+    },
+    "3": {
+      "item": "nature_and_harmony:anthracite"
+    }
+  },
+  "result": {
+    "item": "nature_and_harmony:polished_anthracite",
+    "count": 4
+  }
+}

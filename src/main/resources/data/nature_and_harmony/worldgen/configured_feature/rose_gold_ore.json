@@ -1,0 +1,31 @@
+{
+  "type": "nature_and_harmony:rose_gold_ore",
+  "config": {
+    "size": 4,
+    "discard_chance_on_air_exposure": 0,
+    "targets": [
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "nature_and_harmony:carborite"
+          }
+        },
+        "state": {
+          "Name": "nature_and_harmony:rose_gold_ore"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "nature_and_harmony:vekrenite"
+          }
+        },
+        "state": {
+          "Name": "nature_and_harmony:rose_gold_ore"
+        }
+      }
+    ]
+  }
+}

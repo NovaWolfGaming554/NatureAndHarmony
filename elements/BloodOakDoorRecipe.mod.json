@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 3,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:BloodOakPlanks"
+      },
+      {
+        "value": "CUSTOM:BloodOakPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:BloodOakPlanks"
+      },
+      {
+        "value": "CUSTOM:BloodOakPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:BloodOakPlanks"
+      },
+      {
+        "value": "CUSTOM:BloodOakPlanks"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:BloodOakDoor"
+    },
+    "name": "blood_oak_door_recipe",
+    "namespace": "mod"
+  }
+}

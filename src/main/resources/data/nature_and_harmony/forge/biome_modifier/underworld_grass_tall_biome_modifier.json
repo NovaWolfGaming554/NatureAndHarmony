@@ -1,0 +1,9 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "nature_and_harmony:eminence_forest",
+    "nature_and_harmony:underworld_plains"
+  ],
+  "features": "nature_and_harmony:underworld_grass_tall",
+  "step": "vegetal_decoration"
+}

@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 2,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:DarkoniteBlackChiseled"
+      },
+      {
+        "value": "CUSTOM:DarkoniteBlackPolished"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:DarkoniteBlackPolished"
+      },
+      {
+        "value": "CUSTOM:DarkoniteBlackChiseled"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:DarkoniteBlackCarved"
+    },
+    "name": "darkonite_black_carved_recipe",
+    "namespace": "mod"
+  }
+}

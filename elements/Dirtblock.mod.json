@@ -1,0 +1,45 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:Ash"
+      },
+      {
+        "value": "CUSTOM:WitheredMoss"
+      },
+      {
+        "value": "CUSTOM:UnderworldDirt"
+      },
+      {
+        "value": "CUSTOM:UnderworldGrass"
+      },
+      {
+        "value": "CUSTOM:UnderworldGrassFloweredf"
+      },
+      {
+        "value": "CUSTOM:DarkoniteSnowy"
+      },
+      {
+        "value": "CUSTOM:Frost"
+      },
+      {
+        "value": "CUSTOM:UnderworldGrassRed"
+      },
+      {
+        "value": "CUSTOM:UnderworldGrassRedFlowered"
+      },
+      {
+        "value": "CUSTOM:UnderworldSand"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "dirt",
+    "namespace": "minecraft"
+  }
+}

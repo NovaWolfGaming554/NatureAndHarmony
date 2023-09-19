@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "nature_and_harmony:polished_black_marble"
+    },
+    "1": {
+      "item": "nature_and_harmony:polished_black_marble"
+    },
+    "2": {
+      "item": "nature_and_harmony:polished_black_marble"
+    }
+  },
+  "result": {
+    "item": "nature_and_harmony:polished_black_marble_slab",
+    "count": 6
+  }
+}

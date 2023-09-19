@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "nature_and_harmony:purple_burst_flower"
+    }
+  },
+  "result": {
+    "item": "minecraft:purple_dye",
+    "count": 2
+  }
+}

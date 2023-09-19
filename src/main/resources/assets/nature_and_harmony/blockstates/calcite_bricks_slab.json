@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "nature_and_harmony:block/calcite_bricks_slab"
+    },
+    "type=top": {
+      "model": "nature_and_harmony:block/calcite_bricks_slab_top"
+    },
+    "type=double": {
+      "model": "nature_and_harmony:block/calcite_bricks_slab_full"
+    }
+  }
+}

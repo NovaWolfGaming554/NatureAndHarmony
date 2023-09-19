@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "nature_and_harmony:vekrenite"
+  },
+  "result": "nature_and_harmony:vekrenite_bricks_slab"
+}

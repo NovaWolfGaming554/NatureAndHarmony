@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "nature_and_harmony:block/rhodusite_bricks",
+    "top": "nature_and_harmony:block/rhodusite_bricks",
+    "side": "nature_and_harmony:block/rhodusite_bricks"
+  },
+  "render_type": "solid"
+}

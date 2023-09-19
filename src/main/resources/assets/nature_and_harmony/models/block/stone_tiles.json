@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nature_and_harmony:block/stone_tiles",
+    "up": "nature_and_harmony:block/stone_tiles",
+    "north": "nature_and_harmony:block/stone_tiles",
+    "east": "nature_and_harmony:block/stone_tiles",
+    "south": "nature_and_harmony:block/stone_tiles",
+    "west": "nature_and_harmony:block/stone_tiles",
+    "particle": "nature_and_harmony:block/stone_tiles"
+  },
+  "render_type": "solid"
+}

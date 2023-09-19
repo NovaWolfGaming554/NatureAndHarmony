@@ -1,0 +1,24 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:Carborite"
+      },
+      {
+        "value": "CUSTOM:CrackedCarborite"
+      },
+      {
+        "value": "CUSTOM:Darkonite"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "stonecraftingmaterials",
+    "namespace": "minecraft"
+  }
+}

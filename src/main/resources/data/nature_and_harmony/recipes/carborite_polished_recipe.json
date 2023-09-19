@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "nature_and_harmony:carborite"
+    },
+    "1": {
+      "item": "nature_and_harmony:carborite"
+    },
+    "2": {
+      "item": "nature_and_harmony:carborite"
+    },
+    "3": {
+      "item": "nature_and_harmony:carborite"
+    }
+  },
+  "result": {
+    "item": "nature_and_harmony:carborite_polished",
+    "count": 4
+  }
+}

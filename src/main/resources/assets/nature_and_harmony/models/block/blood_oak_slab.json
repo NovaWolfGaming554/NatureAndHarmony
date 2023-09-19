@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "nature_and_harmony:block/blood_oak_planks_2",
+    "top": "nature_and_harmony:block/blood_oak_planks_2",
+    "side": "nature_and_harmony:block/blood_oak_planks_2"
+  },
+  "render_type": "solid"
+}

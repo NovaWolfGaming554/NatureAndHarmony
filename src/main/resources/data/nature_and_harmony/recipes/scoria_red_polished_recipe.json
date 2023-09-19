@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "nature_and_harmony:scoria_red"
+    },
+    "1": {
+      "item": "nature_and_harmony:scoria_red"
+    },
+    "2": {
+      "item": "nature_and_harmony:scoria_red"
+    },
+    "3": {
+      "item": "nature_and_harmony:scoria_red"
+    }
+  },
+  "result": {
+    "item": "nature_and_harmony:scoria_red_polished",
+    "count": 4
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 4,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:RhodusitePolished"
+      },
+      {
+        "value": "CUSTOM:RhodusitePolished"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:RhodusitePolished"
+      },
+      {
+        "value": "CUSTOM:RhodusitePolished"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:RhodusiteBricks"
+    },
+    "name": "rhodusite_bricks_recipe",
+    "namespace": "mod"
+  }
+}

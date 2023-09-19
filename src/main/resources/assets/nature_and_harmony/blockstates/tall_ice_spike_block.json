@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "nature_and_harmony:block/tall_ice_spike_block"
+    },
+    "half=lower": {
+      "model": "nature_and_harmony:block/tall_ice_spike_block_bottom"
+    }
+  }
+}

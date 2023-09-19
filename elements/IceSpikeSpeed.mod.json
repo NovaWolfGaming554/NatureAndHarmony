@@ -1,0 +1,20 @@
+{
+  "_fv": 47,
+  "_type": "potioneffect",
+  "definition": {
+    "effectName": "Ice Speed",
+    "icon": "ice_speed_effect.png",
+    "color": {
+      "value": -6684673,
+      "falpha": 0.0
+    },
+    "isInstant": true,
+    "isBad": false,
+    "isBenefitical": true,
+    "renderStatusInInventory": true,
+    "renderStatusInHUD": true,
+    "onStarted": {
+      "name": "IceSpikeSpeedEffectStartedapplied"
+    }
+  }
+}

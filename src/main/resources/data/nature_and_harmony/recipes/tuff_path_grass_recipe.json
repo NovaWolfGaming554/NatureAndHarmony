@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:grass_block"
+    },
+    "1": {
+      "item": "nature_and_harmony:tuff_bricks"
+    },
+    "2": {
+      "item": "nature_and_harmony:tuff_bricks"
+    },
+    "3": {
+      "item": "minecraft:grass_block"
+    }
+  },
+  "result": {
+    "item": "nature_and_harmony:tuff_path_grass",
+    "count": 4
+  }
+}

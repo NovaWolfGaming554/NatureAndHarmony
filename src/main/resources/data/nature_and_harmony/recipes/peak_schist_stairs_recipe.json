@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "nature_and_harmony:peak_schist"
+    },
+    "3": {
+      "item": "nature_and_harmony:peak_schist"
+    },
+    "4": {
+      "item": "nature_and_harmony:peak_schist"
+    },
+    "6": {
+      "item": "nature_and_harmony:peak_schist"
+    },
+    "7": {
+      "item": "nature_and_harmony:peak_schist"
+    },
+    "8": {
+      "item": "nature_and_harmony:peak_schist"
+    }
+  },
+  "result": {
+    "item": "nature_and_harmony:peak_schist_stairs",
+    "count": 4
+  }
+}

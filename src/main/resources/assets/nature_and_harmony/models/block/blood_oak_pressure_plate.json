@@ -1,0 +1,7 @@
+{
+  "parent": "block/pressure_plate_up",
+  "textures": {
+    "texture": "nature_and_harmony:block/blood_oak_planks_2"
+  },
+  "render_type": "solid"
+}

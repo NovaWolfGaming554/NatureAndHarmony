@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "nature_and_harmony:schist_peaks",
+  "features": "nature_and_harmony:venomite",
+  "step": "underground_ores"
+}

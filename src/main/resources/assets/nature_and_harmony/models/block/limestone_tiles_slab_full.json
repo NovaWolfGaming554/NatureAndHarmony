@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "nature_and_harmony:block/limestone2_tiled_bricks",
+    "top": "nature_and_harmony:block/limestone2_tiled_bricks",
+    "side": "nature_and_harmony:block/limestone2_tiled_bricks"
+  },
+  "render_type": "solid"
+}

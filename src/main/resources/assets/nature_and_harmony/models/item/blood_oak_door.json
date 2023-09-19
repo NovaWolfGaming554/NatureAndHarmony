@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "nature_and_harmony:block/blood_oak_door_glass_lower"
+  },
+  "render_type": "cutout_mipped"
+}

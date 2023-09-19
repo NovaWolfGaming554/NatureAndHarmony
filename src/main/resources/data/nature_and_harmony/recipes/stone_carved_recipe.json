@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "nature_and_harmony:stone_panel"
+    },
+    "1": {
+      "item": "nature_and_harmony:stone_panel"
+    },
+    "2": {
+      "item": "nature_and_harmony:stone_panel"
+    },
+    "3": {
+      "item": "nature_and_harmony:stone_panel"
+    }
+  },
+  "result": {
+    "item": "nature_and_harmony:carved_stone_panel",
+    "count": 4
+  }
+}

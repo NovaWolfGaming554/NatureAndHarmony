@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "nature_and_harmony:vekrenite_bricks"
+    },
+    "1": {
+      "item": "nature_and_harmony:vekrenite_bricks"
+    },
+    "2": {
+      "item": "nature_and_harmony:vekrenite_bricks"
+    }
+  },
+  "result": {
+    "item": "nature_and_harmony:vekrenite_bricks_slab",
+    "count": 6
+  }
+}

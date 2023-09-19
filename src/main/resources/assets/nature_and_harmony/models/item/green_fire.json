@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "nature_and_harmony:block/micherite_fire_2"
+  }
+}

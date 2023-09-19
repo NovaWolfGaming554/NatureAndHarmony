@@ -1,0 +1,27 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:RedRose"
+      },
+      {
+        "value": "CUSTOM:PinkRose"
+      },
+      {
+        "value": "CUSTOM:CyanRose"
+      },
+      {
+        "value": "CUSTOM:WhiteRose"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "small_flowers",
+    "namespace": "minecraft"
+  }
+}

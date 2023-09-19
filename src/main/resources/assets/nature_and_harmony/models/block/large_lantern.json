@@ -1,0 +1,9 @@
+{
+  "parent": "nature_and_harmony:custom/lantern",
+  "textures": {
+    "all": "nature_and_harmony:block/lantern",
+    "particle": "nature_and_harmony:block/lantern",
+    "2": "nature_and_harmony:block/lantern"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "nature_and_harmony:limestone"
+  },
+  "result": "nature_and_harmony:limestone_tiles_wall"
+}

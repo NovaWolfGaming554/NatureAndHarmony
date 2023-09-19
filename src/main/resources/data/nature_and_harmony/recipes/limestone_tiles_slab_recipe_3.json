@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "nature_and_harmony:polished_limestone"
+  },
+  "result": "nature_and_harmony:limestone_tiles_slab"
+}

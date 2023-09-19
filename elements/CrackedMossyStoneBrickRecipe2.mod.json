@@ -1,0 +1,22 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 1.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "Blocks.STONEBRICK#1"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:CrackedMossyStoneBricks"
+    },
+    "name": "cracked_mossy_stone_brick_recipe_2",
+    "namespace": "mod"
+  }
+}

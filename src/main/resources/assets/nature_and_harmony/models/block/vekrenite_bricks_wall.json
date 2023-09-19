@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_side",
+  "textures": {
+    "wall": "nature_and_harmony:block/vekrenite_bricks",
+    "particle": "nature_and_harmony:block/vekrenite_bricks"
+  },
+  "render_type": "solid"
+}

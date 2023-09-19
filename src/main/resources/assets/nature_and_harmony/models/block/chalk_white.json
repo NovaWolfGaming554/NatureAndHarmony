@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nature_and_harmony:block/chalk_white",
+    "up": "nature_and_harmony:block/chalk_white",
+    "north": "nature_and_harmony:block/chalk_white",
+    "east": "nature_and_harmony:block/chalk_white",
+    "south": "nature_and_harmony:block/chalk_white",
+    "west": "nature_and_harmony:block/chalk_white",
+    "particle": "nature_and_harmony:block/chalk_white"
+  },
+  "render_type": "solid"
+}

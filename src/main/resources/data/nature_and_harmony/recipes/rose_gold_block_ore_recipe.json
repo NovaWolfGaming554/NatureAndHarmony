@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "nature_and_harmony:rose_gold_block"
+    }
+  ],
+  "result": {
+    "item": "nature_and_harmony:rose_gold_ingot",
+    "count": 9
+  }
+}

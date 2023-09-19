@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "nature_and_harmony:block/purple_burst_flower"
+    },
+    "half=lower": {
+      "model": "nature_and_harmony:block/purple_burst_flower_bottom"
+    }
+  }
+}

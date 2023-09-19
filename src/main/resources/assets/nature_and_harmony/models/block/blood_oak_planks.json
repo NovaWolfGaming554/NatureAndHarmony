@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nature_and_harmony:block/blood_oak_planks_2",
+    "up": "nature_and_harmony:block/blood_oak_planks_2",
+    "north": "nature_and_harmony:block/blood_oak_planks_2",
+    "east": "nature_and_harmony:block/blood_oak_planks_2",
+    "south": "nature_and_harmony:block/blood_oak_planks_2",
+    "west": "nature_and_harmony:block/blood_oak_planks_2",
+    "particle": "nature_and_harmony:block/blood_oak_planks_2"
+  },
+  "render_type": "solid"
+}

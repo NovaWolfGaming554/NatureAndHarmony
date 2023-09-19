@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "nature_and_harmony:limestone"
+    },
+    "1": {
+      "item": "nature_and_harmony:limestone"
+    },
+    "2": {
+      "item": "nature_and_harmony:limestone"
+    },
+    "3": {
+      "item": "nature_and_harmony:limestone"
+    }
+  },
+  "result": {
+    "item": "nature_and_harmony:polished_limestone",
+    "count": 4
+  }
+}

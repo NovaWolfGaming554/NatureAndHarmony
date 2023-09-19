@@ -1,0 +1,29 @@
+{
+  "leatherblock": {
+    "subtitle": "subtitles.leatherblock",
+    "sounds": [
+      {
+        "name": "nature_and_harmony:leather-bag-being-dropped-and-picked-up-30045-_audiotrimmer.com_",
+        "stream": false
+      }
+    ]
+  },
+  "leatherblock2": {
+    "subtitle": "subtitles.leatherblock2",
+    "sounds": [
+      {
+        "name": "nature_and_harmony:leather-bag-being-dropped-and-picked-up-30045-_audiotrimmer.com_-audiotrimmer.com",
+        "stream": false
+      }
+    ]
+  },
+  "lestherblock3": {
+    "subtitle": "subtitles.lestherblock3",
+    "sounds": [
+      {
+        "name": "nature_and_harmony:leather-bag-being-dropped-and-picked-up-30045-_audiotrimmer.com_-audiotrimmer.com",
+        "stream": false
+      }
+    ]
+  }
+}

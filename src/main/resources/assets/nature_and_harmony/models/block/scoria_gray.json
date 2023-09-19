@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "nature_and_harmony:block/scoria_gray2",
+    "particle": "nature_and_harmony:block/scoria_gray2"
+  },
+  "render_type": "solid"
+}

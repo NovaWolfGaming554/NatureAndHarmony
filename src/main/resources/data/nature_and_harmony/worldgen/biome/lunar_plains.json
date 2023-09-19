@@ -1,0 +1,54 @@
+{
+  "has_precipitation": true,
+  "temperature": 0.1,
+  "downfall": 0.5,
+  "effects": {
+    "particle": {
+      "options": {
+        "type": "nature_and_harmony:star"
+      },
+      "probability": 0.007
+    },
+    "foliage_color": -16764109,
+    "grass_color": -16764109,
+    "sky_color": -16777165,
+    "fog_color": -16777165,
+    "water_color": -16764109,
+    "water_fog_color": -16777165
+  },
+  "spawners": {
+    "monster": [],
+    "creature": [],
+    "ambient": [],
+    "axolotls": [],
+    "underground_water_creature": [],
+    "water_creature": [],
+    "water_ambient": [],
+    "misc": []
+  },
+  "spawn_costs": {},
+  "carvers": {
+    "air": [
+      "minecraft:cave",
+      "minecraft:cave_extra_underground",
+      "minecraft:canyon"
+    ]
+  },
+  "features": [
+    [],
+    [
+      "minecraft:lake_lava_underground"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "nature_and_harmony:lunar_plains_tree"
+    ],
+    []
+  ]
+}

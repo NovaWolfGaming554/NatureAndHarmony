@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nature_and_harmony:block/darkronite_polished",
+    "up": "nature_and_harmony:block/darkronite_polished",
+    "north": "nature_and_harmony:block/darkronite_polished",
+    "east": "nature_and_harmony:block/darkronite_polished",
+    "south": "nature_and_harmony:block/darkronite_polished",
+    "west": "nature_and_harmony:block/darkronite_polished",
+    "particle": "nature_and_harmony:block/darkronite_polished"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smoking",
+  "category": "misc",
+  "experience": 1,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "nature_and_harmony:flesh"
+  },
+  "result": "nature_and_harmony:cooked_flesh"
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "nature_and_harmony:stone_tiles"
+  },
+  "result": "nature_and_harmony:chiseled_stone_tiles"
+}

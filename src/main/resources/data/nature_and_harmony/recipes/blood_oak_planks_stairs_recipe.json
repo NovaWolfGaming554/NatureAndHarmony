@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "nature_and_harmony:blood_oak_planks"
+    },
+    "3": {
+      "item": "nature_and_harmony:blood_oak_planks"
+    },
+    "4": {
+      "item": "nature_and_harmony:blood_oak_planks"
+    },
+    "6": {
+      "item": "nature_and_harmony:blood_oak_planks"
+    },
+    "7": {
+      "item": "nature_and_harmony:blood_oak_planks"
+    },
+    "8": {
+      "item": "nature_and_harmony:blood_oak_planks"
+    }
+  },
+  "result": {
+    "item": "nature_and_harmony:blood_oak_planks_stairs",
+    "count": 4
+  }
+}

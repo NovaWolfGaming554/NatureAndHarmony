@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23",
+    "45"
+  ],
+  "key": {
+    "0": {
+      "item": "nature_and_harmony:deleted_mod_element"
+    },
+    "1": {
+      "item": "nature_and_harmony:deleted_mod_element"
+    },
+    "2": {
+      "item": "nature_and_harmony:deleted_mod_element"
+    },
+    "3": {
+      "item": "nature_and_harmony:deleted_mod_element"
+    },
+    "4": {
+      "item": "nature_and_harmony:deleted_mod_element"
+    },
+    "5": {
+      "item": "nature_and_harmony:deleted_mod_element"
+    }
+  },
+  "result": {
+    "item": "nature_and_harmony:eminence_door",
+    "count": 3
+  }
+}

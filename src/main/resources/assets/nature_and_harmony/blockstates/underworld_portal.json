@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "nature_and_harmony:block/underworld_portal_ew"
+    },
+    "axis=x": {
+      "model": "nature_and_harmony:block/underworld_portal_ns"
+    }
+  }
+}

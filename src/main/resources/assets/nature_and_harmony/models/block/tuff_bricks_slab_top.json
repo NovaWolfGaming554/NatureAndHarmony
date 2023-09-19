@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "nature_and_harmony:block/tuff_bricks",
+    "top": "nature_and_harmony:block/tuff_bricks",
+    "side": "nature_and_harmony:block/tuff_bricks"
+  },
+  "render_type": "solid"
+}

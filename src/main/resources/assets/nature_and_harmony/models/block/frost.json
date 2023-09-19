@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nature_and_harmony:block/frost",
+    "up": "nature_and_harmony:block/frost",
+    "north": "nature_and_harmony:block/frost",
+    "east": "nature_and_harmony:block/frost",
+    "south": "nature_and_harmony:block/frost",
+    "west": "nature_and_harmony:block/frost",
+    "particle": "nature_and_harmony:block/frost"
+  },
+  "render_type": "solid"
+}

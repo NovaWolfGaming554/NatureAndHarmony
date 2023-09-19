@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "nature_and_harmony:polished_anthracite"
+    },
+    "3": {
+      "item": "nature_and_harmony:polished_anthracite"
+    },
+    "4": {
+      "item": "nature_and_harmony:polished_anthracite"
+    },
+    "6": {
+      "item": "nature_and_harmony:polished_anthracite"
+    },
+    "7": {
+      "item": "nature_and_harmony:polished_anthracite"
+    },
+    "8": {
+      "item": "nature_and_harmony:polished_anthracite"
+    }
+  },
+  "result": {
+    "item": "nature_and_harmony:polished_anthracite_stairs",
+    "count": 4
+  }
+}

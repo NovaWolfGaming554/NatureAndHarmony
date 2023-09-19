@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nature_and_harmony:block/ash",
+    "up": "nature_and_harmony:block/ash",
+    "north": "nature_and_harmony:block/ash",
+    "east": "nature_and_harmony:block/ash",
+    "south": "nature_and_harmony:block/ash",
+    "west": "nature_and_harmony:block/ash",
+    "particle": "nature_and_harmony:block/ash"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "nature_and_harmony:rose_gold_ingot"
+    },
+    "1": {
+      "item": "nature_and_harmony:rose_gold_ingot"
+    },
+    "2": {
+      "item": "nature_and_harmony:rose_gold_ingot"
+    },
+    "3": {
+      "item": "nature_and_harmony:rose_gold_ingot"
+    },
+    "5": {
+      "item": "nature_and_harmony:rose_gold_ingot"
+    }
+  },
+  "result": {
+    "item": "nature_and_harmony:rose_gold_armor_helmet",
+    "count": 1
+  }
+}

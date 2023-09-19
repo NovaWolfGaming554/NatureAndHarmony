@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "nature_and_harmony:creamalan"
+  },
+  "result": "nature_and_harmony:creamalen_polished"
+}

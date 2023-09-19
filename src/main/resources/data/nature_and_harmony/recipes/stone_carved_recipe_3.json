@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "nature_and_harmony:stone_panel"
+  },
+  "result": "nature_and_harmony:carved_stone_panel"
+}

@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "nature_and_harmony:lunar_plains",
+  "features": "nature_and_harmony:darkonite_snowy",
+  "step": "underground_ores"
+}

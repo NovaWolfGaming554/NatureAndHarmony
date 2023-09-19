@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nature_and_harmony:block/dirt",
+    "up": "nature_and_harmony:block/dirt",
+    "north": "nature_and_harmony:block/dirt",
+    "east": "nature_and_harmony:block/dirt",
+    "south": "nature_and_harmony:block/dirt",
+    "west": "nature_and_harmony:block/dirt",
+    "particle": "nature_and_harmony:block/dirt"
+  },
+  "render_type": "solid"
+}

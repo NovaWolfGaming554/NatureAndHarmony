@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nature_and_harmony:block/underworld_dirt",
+    "up": "nature_and_harmony:block/underworld_grass_top_flowered_red",
+    "north": "nature_and_harmony:block/underworld_grass_red",
+    "east": "nature_and_harmony:block/underworld_grass_red",
+    "south": "nature_and_harmony:block/underworld_grass_red",
+    "west": "nature_and_harmony:block/underworld_grass_red",
+    "particle": "nature_and_harmony:block/underworld_dirt"
+  },
+  "render_type": "solid"
+}

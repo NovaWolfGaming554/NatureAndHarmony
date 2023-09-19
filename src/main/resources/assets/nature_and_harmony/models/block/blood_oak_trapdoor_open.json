@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_orientable_trapdoor_open",
+  "textures": {
+    "texture": "nature_and_harmony:block/blood_oak_trapdoor_glass",
+    "particle": "nature_and_harmony:block/blood_oak_trapdoor_glass"
+  },
+  "render_type": "cutout_mipped"
+}

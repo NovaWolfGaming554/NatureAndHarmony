@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "nature_and_harmony:block/cut_iron_panels"
+    },
+    "facing=east": {
+      "model": "nature_and_harmony:block/cut_iron_panels",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "nature_and_harmony:block/cut_iron_panels",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "nature_and_harmony:block/cut_iron_panels",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_orientable_trapdoor_bottom",
+  "textures": {
+    "texture": "nature_and_harmony:block/eminence_trapdoor_3",
+    "particle": "nature_and_harmony:block/eminence_trapdoor_3"
+  },
+  "render_type": "solid"
+}

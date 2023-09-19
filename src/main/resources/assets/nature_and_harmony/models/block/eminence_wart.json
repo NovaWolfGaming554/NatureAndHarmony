@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nature_and_harmony:block/eminence_leaves",
+    "up": "nature_and_harmony:block/eminence_leaves",
+    "north": "nature_and_harmony:block/eminence_leaves",
+    "east": "nature_and_harmony:block/eminence_leaves",
+    "south": "nature_and_harmony:block/eminence_leaves",
+    "west": "nature_and_harmony:block/eminence_leaves",
+    "particle": "nature_and_harmony:block/eminence_leaves"
+  },
+  "render_type": "solid"
+}

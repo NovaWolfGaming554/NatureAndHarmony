@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "nature_and_harmony:tomato"
+    },
+    "1": {
+      "item": "nature_and_harmony:tomato"
+    },
+    "2": {
+      "item": "nature_and_harmony:tomato"
+    },
+    "3": {
+      "item": "nature_and_harmony:tomato"
+    },
+    "4": {
+      "item": "nature_and_harmony:tomato"
+    },
+    "5": {
+      "item": "nature_and_harmony:tomato"
+    },
+    "7": {
+      "item": "minecraft:bowl"
+    }
+  },
+  "result": {
+    "item": "nature_and_harmony:chopped_tomato",
+    "count": 1
+  }
+}

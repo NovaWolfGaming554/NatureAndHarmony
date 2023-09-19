@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "nature_and_harmony:item/topaz_shears_2"
+  }
+}

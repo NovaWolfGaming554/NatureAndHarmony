@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "nature_and_harmony:polished_antimonite"
+    },
+    "1": {
+      "item": "nature_and_harmony:polished_antimonite"
+    },
+    "2": {
+      "item": "nature_and_harmony:polished_antimonite"
+    },
+    "3": {
+      "item": "nature_and_harmony:polished_antimonite"
+    }
+  },
+  "result": {
+    "item": "nature_and_harmony:antimonite_panel",
+    "count": 4
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "_fv": 47,
+  "_type": "tool",
+  "definition": {
+    "toolType": "Fishing rod",
+    "renderType": 0,
+    "texture": "topaz_fishing_rod2",
+    "customModelName": "Normal",
+    "name": "Topaz Fishing Rod",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:NatureAndHarmonyItems"
+    },
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 1.0,
+    "enchantability": 2,
+    "damageVsEntity": 4.0,
+    "usageCount": 150,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

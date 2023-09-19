@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "nature_and_harmony:block/cotton_plant_stage2",
+    "particle": "nature_and_harmony:block/cotton_plant_stage2"
+  },
+  "render_type": "cutout"
+}

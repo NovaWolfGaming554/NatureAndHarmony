@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:IceSpike"
+      },
+      {
+        "value": "CUSTOM:IceSpike"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:IceSpike"
+      },
+      {
+        "value": "CUSTOM:IceSpike"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Blocks.PACKED_ICE"
+    },
+    "name": "ice_spike_2_packed_ice",
+    "namespace": "mod"
+  }
+}

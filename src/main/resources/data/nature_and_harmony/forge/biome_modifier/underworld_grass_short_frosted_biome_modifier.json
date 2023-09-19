@@ -1,0 +1,9 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "nature_and_harmony:lunar_plains",
+    "nature_and_harmony:schist_peaks"
+  ],
+  "features": "nature_and_harmony:underworld_grass_short_frosted",
+  "step": "vegetal_decoration"
+}

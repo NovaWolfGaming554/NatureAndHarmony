@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "nature_and_harmony:block/grape_plant_stage_5",
+    "particle": "nature_and_harmony:block/grape_plant_stage_5"
+  },
+  "render_type": "cutout"
+}

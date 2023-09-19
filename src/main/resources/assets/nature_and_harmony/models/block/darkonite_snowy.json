@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nature_and_harmony:block/darkronite",
+    "up": "nature_and_harmony:block/frost",
+    "north": "nature_and_harmony:block/darkronite_frosted",
+    "east": "nature_and_harmony:block/darkronite_frosted",
+    "south": "nature_and_harmony:block/darkronite_frosted",
+    "west": "nature_and_harmony:block/darkronite_frosted",
+    "particle": "nature_and_harmony:block/darkronite"
+  },
+  "render_type": "solid"
+}

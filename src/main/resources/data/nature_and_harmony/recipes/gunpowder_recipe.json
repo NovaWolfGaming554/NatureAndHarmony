@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:charcoal"
+    },
+    "1": {
+      "item": "nature_and_harmony:sulphur"
+    },
+    "2": {
+      "item": "nature_and_harmony:sulphur"
+    },
+    "3": {
+      "item": "minecraft:charcoal"
+    }
+  },
+  "result": {
+    "item": "minecraft:gunpowder",
+    "count": 2
+  }
+}

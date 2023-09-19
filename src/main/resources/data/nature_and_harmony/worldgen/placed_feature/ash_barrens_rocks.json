@@ -1,0 +1,15 @@
+{
+  "feature": "nature_and_harmony:ash_barrens_rocks",
+  "placement": [
+    {
+      "type": "minecraft:count_on_every_layer",
+      "count": {
+        "type": "uniform",
+        "value": {
+          "min_inclusive": 1,
+          "max_inclusive": 3
+        }
+      }
+    }
+  ]
+}

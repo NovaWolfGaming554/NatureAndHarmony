@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 3,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:EminencePlanks"
+      },
+      {
+        "value": "CUSTOM:EminencePlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:EminencePlanks"
+      },
+      {
+        "value": "CUSTOM:EminencePlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:EminencePlanks"
+      },
+      {
+        "value": "CUSTOM:EminencePlanks"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:EminenceDoor"
+    },
+    "name": "eminence_door_recipe",
+    "namespace": "mod"
+  }
+}

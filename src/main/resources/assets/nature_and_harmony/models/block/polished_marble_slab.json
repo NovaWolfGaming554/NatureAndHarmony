@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "nature_and_harmony:block/polished_marble",
+    "top": "nature_and_harmony:block/polished_marble",
+    "side": "nature_and_harmony:block/polished_marble"
+  },
+  "render_type": "solid"
+}

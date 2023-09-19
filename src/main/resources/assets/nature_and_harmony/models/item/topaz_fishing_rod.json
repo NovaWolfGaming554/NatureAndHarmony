@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld_rod",
+  "textures": {
+    "layer0": "nature_and_harmony:item/topaz_fishing_rod2"
+  }
+}
